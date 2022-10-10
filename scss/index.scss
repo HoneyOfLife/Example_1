@@ -1,0 +1,26 @@
+@import "libs/normalize";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import "base/variables";
+
+@import "blocks/heder";
+@import "blocks/nav";
+@import "blocks/logo";
+@import "blocks/main";
+@import "blocks/logo";
+@import "blocks/colons";
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+}
+
+.container {
+  width: 1300px;
+  margin: 0 auto;
+  display: block;
+}

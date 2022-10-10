@@ -1,0 +1,23 @@
+.nav_heder {
+  color: #000;
+  text-decoration: none;
+}
+.nav {
+  display: flex;
+  list-style-type: none;
+  gap: 40px;
+  margin: 0;
+  padding: 25px 192px 25px 0px;
+
+  font-size: 16px;
+  line-height: 18px;
+  list-style: none;
+}
+
+.nav a {
+  font-size: 16px;
+  line-height: 19px;
+  color: #000;
+  text-decoration: none;
+  order: 2;
+}

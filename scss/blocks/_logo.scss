@@ -1,0 +1,18 @@
+.logo {
+  padding: 10px 0px;
+}
+
+.logo__link {
+  display: block;
+}
+
+.logo a {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+  color: #000000;
+  order: 1;
+  text-decoration: none;
+}
